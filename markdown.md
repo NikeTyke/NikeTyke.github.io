@@ -96,8 +96,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
+![](git-fire.png)
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
