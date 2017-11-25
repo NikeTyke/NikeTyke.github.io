@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![](git-fire.png)
+![](git-fire.png.html)
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
